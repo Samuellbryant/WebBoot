@@ -37,5 +37,3 @@ function simpleGame(secretNumber)
  		// do nothing
  	}
 }
-
- 
